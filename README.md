@@ -1,6 +1,6 @@
 # Data_Bootcamp_Final_Project
 
-This project was completed by insert full name here in partial fulfilment of ECON-UB.0232,
+This project was completed by insert Jissa Ann Vennat here in partial fulfilment of ECON-UB.0232,
 Data Bootcamp, Fall 2017. I certify that the NYU Stern Honor Code applies to this project. In
 particular, I have:
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
@@ -17,4 +17,4 @@ the project and course.
 
 Project Description
 
-This project will examine the relationship between governance (especially Rule of Law indexes) and development using data from 1996-2014. Key goals and project outcomes will be to provide concrete evidence of the importance of accountability, protection of fundamental rights, and the accessibility and efficiency of legislative and judicial systems, and to examine potential differences in the relationship between governance and development in countries at different stages of development.
+This project will examine the relationship between governance (especially Rule of Law indexes) and development using data from 1996-2014. Key goals and project outcomes will be to provide concrete evidence of the importance of accountability, protection of fundamental rights, and the accessibility and efficiency of legislative and judicial systems, and to examine potential differences in the relationship between governance and development in countries at different stages of development. Analysis will be performed using governance and development levels in 1996 as well as continuously compounded annualized growth rates from the eighteen year period.
